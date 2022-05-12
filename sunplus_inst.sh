@@ -83,7 +83,7 @@ press_any_key__func
 echo -e "\r"
 echo "---Cloning Sunplus Image (in other words: writing data to local disk)---"
 echo -e "\r"
-git clone https://github.com/leramirez552/SP7021.git
+git clone https://github.com/sunplus-plus1/SP7021.git
 
 echo -e "\r"
 echo ">Navigating to ${sunplus_dir}"
