@@ -53,7 +53,7 @@ brcm_patchram_plus_filename="brcm_patchram_plus"
 make_menuconfig_filename="armhf_kernel.config"
 make_menuconfig_default_filename=".config"
 
-sp7021_ltpp3g2revD_filename="sp7021-ltpp3g2revD.dtsi"
+sp7021_ltpp3g2revD_filename="rvd-devicetree.dts"
 
 qemu_user_static_filename="qemu-arm-static"
 
